@@ -15,7 +15,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { HighlightDirective } from './highlight.directive';
-// import { from } from 'rxjs';
+import { from } from 'rxjs';
 
 @NgModule({
   declarations: [
