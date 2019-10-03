@@ -4,7 +4,7 @@
 ## DESCRIPTION
 This is an application where by the user may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories, as well as looking  for repositories
 ## DEPLOYED LIVE SITE 
-This app is live @ ...
+This app is live @ https://machariamark.github.io/Github-Search/
 ## FEATURES
 As a user can ;
 * Search for Github users.
